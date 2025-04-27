@@ -1,0 +1,92 @@
+[
+    {
+        "IF": {
+            "pH": [6.5, 8.5],
+            "Oksigen": [4.0, 6.5],
+            "Suhu": [25, 30],
+            "Kedalaman": [100, 150]
+        },
+        "THEN": "Ikan Nila"
+    },
+    {
+        "IF": {
+            "pH": [7.1, 8.1],
+            "Oksigen": [4.0, 6.6],
+            "Suhu": [27, 30],
+            "Kedalaman": [40, 70]
+        },
+        "THEN": "Ikan Lele"
+    },
+    {
+        "IF": {
+            "pH": [6.5, 8.0],
+            "Oksigen": [5.1, 5.8],
+            "Suhu": [15, 30],
+            "Kedalaman": [75, 100]
+        },
+        "THEN": "Ikan Gurame"
+    },
+    {
+        "IF": {
+            "pH": [7.0, 8.0],
+            "Oksigen": [0.1, 0.3],
+            "Suhu": [20, 30],
+            "Kedalaman": [60, 150]
+        },
+        "THEN": "Ikan Mas"
+    },
+    {
+        "IF": {
+            "pH": [6.5, 9.0],
+            "Oksigen": [5.0, 7.0],
+            "Suhu": [25, 30],
+            "Kedalaman": [50, 100]
+        },
+        "THEN": "Ikan Mujair"
+    },
+    {
+        "IF": {
+            "pH": [6.0, 9.0],
+            "Oksigen": [3.0, 7.0],
+            "Suhu": [25, 30],
+            "Kedalaman": [100, 150]
+        },
+        "THEN": "Ikan Patin"
+    },
+    {
+        "IF": {
+            "pH": [6.5, 8.0],
+            "Oksigen": [6.0, 8.0],
+            "Suhu": [20, 28],
+            "Kedalaman": [120, 200]
+        },
+        "THEN": "Ikan Koi"
+    },
+    {
+        "IF": {
+            "pH": [6.2, 7.8],
+            "Oksigen": [3.7, 5.7],
+            "Suhu": [27, 32],
+            "Kedalaman": [50, 150]
+        },
+        "THEN": "Ikan Gabus"
+    },
+    {
+        "IF": {
+            "pH": [6.8, 7.5],
+            "Oksigen": [5.0, 7.0],
+            "Suhu": [24, 28],
+            "Kedalaman": [150, 200]
+        },
+        "THEN": "Ikan Arwana"
+    },
+    {
+        "IF": {
+            "pH": [6.0, 7.0],
+            "Oksigen": [4.1, 4.9],
+            "Suhu": [26, 27],
+            "Kedalaman": [10, 15]
+        },
+        "THEN": "Ikan Cupang"
+    }
+]
